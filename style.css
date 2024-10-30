@@ -1,0 +1,21 @@
+/*
+Hot Breadcrumbs
+http://hot-themes.com
+Copyright 2015, HotThemes
+License: GNU/GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+October 2015
+*/
+ 
+.hot-breadcrumbs ol {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline;
+}
+
+.hot-breadcrumbs li {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
